@@ -6,7 +6,7 @@
 3 crio repositório remoto usando o endereço SSh
 4 adiciono um arquivo na pasta
 5 depois uso comando (git add"nomedoarquivo")
-server para ele ser rastreado
+serve para ele ser rastreado
 6 uso git status para checar
 7 uso git commit -m "comentário" para enviar ao
 repositório local.
@@ -14,5 +14,6 @@ repositório local.
 para enviar o arquivo ao server remote.
 9  passos basicos para enviar arquivo ao server
 remote.
+10 nova linha add 16:00
 10 - Depois de criar uma pasta e adicionar o repo
 remoto não é necessário realizar uma nova conexão.
