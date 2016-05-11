@@ -14,6 +14,6 @@ repositório local.
 para enviar o arquivo ao server remote.
 9  passos basicos para enviar arquivo ao server
 remote.
-10 nova linha add 16:00
+
 10 - Depois de criar uma pasta e adicionar o repo
 remoto não é necessário realizar uma nova conexão.
